@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+
+.contenedor {
+    position: relative;
+    width: 100%;
+    margin-left: 50px;
+}
+
+.caja {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    color: white;
+    position: absolute;
+}
+
+.c1 {
+    background: rgb(23, 183, 247);
+    z-index: -2;
+}
+
+.c2 {
+    background: rgb(223, 178, 56);
+    z-index: -1;
+    margin: 20px;
+}
+
+.c3 {
+    background: rgb(27, 143, 46);
+    z-index: 0;
+    margin: 40px;
+}

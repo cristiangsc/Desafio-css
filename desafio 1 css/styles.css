@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    height: 0;
+    text-align: center;
+}
+
+.contenedor {
+    position: relative;
+    align-content: center;
+    width: 100%;
+}
+
+.parrafo {
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: left;
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    vertical-align: text-top;
+}

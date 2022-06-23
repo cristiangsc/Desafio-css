@@ -1,0 +1,95 @@
+.bandera {
+    background-color: #ffffff;
+    width: 600px;
+    height: 400px;
+    margin: 20px;
+    float: left;
+    border: 1px solid black;
+    position: relative;
+}
+
+.esp1 {
+    background-color: red;
+    height: 33.33%;
+}
+
+.esp2 {
+    background-color: #cdda18;
+    height: 33.33%;
+}
+
+.esp3 {
+    background-color: red;
+    height: 33.33%;
+}
+
+.emirato1 {
+    background-color: red;
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
+.emirato2 {
+    background-color: #166d30;
+    height: 33.33%;
+    width: 75%;
+    float: left;
+}
+
+.emirato3 {
+    background-color: rgb(255, 255, 255);
+    height: 33.33%;
+    width: 75%;
+    float: left
+}
+
+.emirato4 {
+    background-color: rgb(0, 0, 0);
+    height: 33.33%;
+    width: 75%;
+    float: left;
+}
+
+.suiza1 {
+    background-color: red;
+    height: 45%;
+    width: 25%;
+    float: left;
+}
+
+.suiza2 {
+    background-color: red;
+    height: 45%;
+    width: 60%;
+    float: right;
+}
+
+.suiza3 {
+    background-color: red;
+    height: 45%;
+    width: 25%;
+    float: left;
+    bottom: 0;
+    position: absolute;
+}
+
+.suiza4 {
+    background-color: red;
+    height: 45%;
+    width: 60%;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.japon {
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: red;
+    margin: auto;
+    margin-top: 25%;
+}
